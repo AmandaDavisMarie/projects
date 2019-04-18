@@ -1,0 +1,19 @@
+1. My proudest profesional achievment is a solo project I completed a few months ago. 
+The goal was to take a series of X,Y coordinates that tracked our rail and turn them into defined geometric curves.
+The railroad has always had very inaccurate data for where the curves are, how long they are, and how sharp they are. This all effects how maintenance is done and speed limits.
+So it is very important that this data is as accurate as possible. The GIS team was originally tasked with doing this project, but due to bandwhidth,
+it fell to my team, and me. 
+This type of algorithm to programmatically define curves has never been created before.
+It was a lot of calculus to turn the coordinates into a degree of curvature. From there, thresholds had to be defined, and curves had to be drawn from thousands of singular data points. 
+It took about 6 months, but in the end, the algorithm and program were a huge success and very well recieved by the business.
+
+2. I have recently finished reading the Stormlight Archive by Brandon Sanderson. I am a huge lover of fantasy, and have read a lot of it. 
+When I first started reading the series, I was unimpressed, I didn't see anything that made it unique or special. I was very open about my criticism to my 
+co-workers who were also reading it with me. But the story and characters really developed, and it felt very natural and real. It included a lot of
+typical fantasy tropes, but also suberted many. There were characters that if they were in any other book, you would be supposed to hate them. 
+But even those characters had growth and were come to be liked. There were a lot of subtle moral themes throughout, but never in your face. Overall, the series
+was very complex, well-written and kept me engaged and thinking.
+
+3. When you go to the doctor because you are sick or need shot, how does the doctor know how much it should cost? Your shot might cost different than
+someone else's shot because of your insurance. Insurance is something most people have to help pay for their doctors visits. So if a shot costs $100,
+insurance might pay $70, then you only owe $30. Availity can help doctors figure out how much your shot should cost with your insurance.
